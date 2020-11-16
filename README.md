@@ -1,6 +1,6 @@
 ##  Hey there! I'm Yeonjeong Cho. 👋
 
-### 주변과 함께 성장하는 따뜻한 개발자를 지향하는 조연정입니다.
+### 주변과 함께 성장하는 따뜻한 개발자를 지향하는 조연정입니다.
 
 <!--
 **jo-love/jo-love** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
