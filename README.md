@@ -2,9 +2,8 @@
 
 ### 주변과 함께 성장하는 따뜻한 개발자를 지향합니다.
 
-⚙️Tech Stack 
-&nbsp
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<span>⚙️Tech Stack</span> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
 <!--
