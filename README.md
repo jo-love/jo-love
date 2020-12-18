@@ -2,7 +2,6 @@
 ##  Hey there! I'm Yeonjeong Cho. 👋
 
 <h3> 주변과 함께 성장하는 따뜻한 개발자를 지향합니다. </h3>
-
 <h2 align="center">⚙️Tech Stack</h2> 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
