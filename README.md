@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=YeonJeong Cho&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=YeonJeongCho&fontSize=70&animation=twinkling)
 ##  Hey there! I'm Yeonjeong Cho. 👋
 
 ### 주변과 함께 성장하는 따뜻한 개발자를 지향합니다.
