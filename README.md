@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=YeonJeongCho&fontSize=50&animation=blink)
 ##  Hey there! I'm Yeonjeong Cho. 👋
 
-<h1> 주변과 함께 성장하는 따뜻한 개발자를 지향합니다. </h1>
+<h3> 주변과 함께 성장하는 따뜻한 개발자를 지향합니다. </h3>
 
 <h2 align="center">⚙️Tech Stack</h2> 
 <p align="center">
