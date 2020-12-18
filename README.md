@@ -2,9 +2,13 @@
 
 ### 주변과 함께 성장하는 따뜻한 개발자를 지향합니다.
 
-<h2>⚙️Tech Stack</h2> 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=blue"/>
+<h2 align="center">⚙️Tech Stack</h2> 
+<p align="center">
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+</p>
+
 
 
 
